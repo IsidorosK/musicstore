@@ -126,15 +126,15 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`IDUser`, `Username`, `Password`, `Name`, `Surname`, `email`, `Phone`, `CreditCardNumber`, `Address`) VALUES
-(1, 'isidoros', 'antee', 'isidor', 'koutsoumbos', 'ikoutsoumbos@hotmail.com', '2147483647', '23451324', 'boutz'),
+(1, 'isidoros', 'antee', 'isidor', 'koutsoumbos', 'nonono@hotmail.com', '2147483647', '23451324', 'kokoko'),
 (2, 'giokou', 'pirosvestis', 'giwrgos', 'koutsoumbos', 'firefighter@fireservice.gr', '2147483647', '2147483647', 'voutza'),
 (3, 'olga', 'hairstylist', 'olga', 'kuriazoydi', 'olgashair@hotmail.com', '2147483647', '23456778', 'nea_smirni'),
 (4, 'katerina', 'mour', 'katerina', 'mourtzouni', '', '555879421', '98481723', 'kainourgio'),
-(7, 'nikos', 'nikas', 'nikos', 'nikolaou', 'n_e_nikolaou@hotmail.com', '6979231333', '554978123', 'kalistratous 9'),
-(9, 'antkorko', '12345', 'Antwnis', 'Korkontzilas', 'akorko13@yahoo.gr', '6978844729', '9985741321', 'Gkanogianni 67'),
+(7, 'nikos', 'nikas', 'nikos', 'nikolaou', 'nikas@hotmail.com', '#########', '554978123', 'kalistratous 9'),
+(9, 'antkorko', '12345', 'Antwnis', 'Korkontzilas', 'antouan@hotmail.com', '#########', '9985741321', 'Gkanogianni 67'),
 (10, 'admin', 'admin', 'Kostantinos', 'Antonis', 'k_antonis@teilam.gr', '6943219783', '68771468337', 'Lamia'),
-(11, 'magda93', 'magdagiannaka', 'Magdalini', 'Giannaka', 'maggia93@hotmail.com', '6948879321', '12345678912', 'Satwvriandou'),
-(12, 'Stratos7', 'giannakos', 'Eustratios', 'Yiannakos', 's_y11@hotmail.com', '6972524179', '4787652312', 'Dhmokratias 14');
+(11, 'magda93', 'magdagiannaka', 'Magdalini', 'Giannaka', 'maggia93@hotmail.com', '#######', '12345678912', 'Satwvriandou'),
+(12, 'Stratos7', 'giannakos', 'Eustratios', 'Yiannakos', 's_y11@hotmail.com', '########', '4787652312', 'Dhmokratias 14');
 
 --
 -- Indexes for dumped tables
